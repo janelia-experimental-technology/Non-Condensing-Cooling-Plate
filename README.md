@@ -52,7 +52,7 @@ Rights and designs available for Commercial License. Janelia makes no endorsemen
 
 For inquiries, please contact innovation@janelia.hhmi.org and reference this repository.
 
-To cite the designs, please use DOI: https://doi.org/
+To cite the designs, please use DOI: https://doi.org/10.25378/janelia.31972878
 
 Supercedes Flintbox ID 2012-037
 
